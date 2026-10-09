@@ -1,2 +1,2 @@
 llama-cpp-python
-gradio>=4.44
+gradio>=6.19.0
