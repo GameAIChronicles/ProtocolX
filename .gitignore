@@ -218,3 +218,8 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+#model
+Qwen3-0.6B-Q8_0.gguf
+main.ipynb
+main.py
